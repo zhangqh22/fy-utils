@@ -1,0 +1,18 @@
+{
+  "name": "fy-utils",
+  "version": "1.0.0",
+  "description": "fy-utils",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangqh22/fy-utils.git"
+  },
+  "main": "./build/main.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangqh22",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.1.0"
+  }
+}
